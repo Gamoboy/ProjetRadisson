@@ -1,0 +1,9 @@
+# Configuration MongoDB
+MONGO_URL=mongodb://localhost:27017/radisson_hotel
+
+# Configuration du serveur
+HOST=0.0.0.0
+PORT=8000
+
+# Mode développement
+DEBUG=True
